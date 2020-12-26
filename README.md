@@ -2,6 +2,9 @@
 
 This plugin extends the Conceal feature of Vim for LaTeX.
 
+フォーク元のプラグインだと正しく表示できない曖昧幅文字がたくさん含まれるので、都合の悪いやつを消すためにフォーク
+
+
 ### Without conceal
 <img src="https://github.com/KeitaNakamura/tex-conceal.vim/blob/master/normal.png" width="800">
 
